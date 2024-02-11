@@ -6,12 +6,18 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: gray;
     color:white;
+    font-size:48px;
+    padding:8px;
+    margin:24px;
+    border:solid;
 }
 .link-container{
     font-size: 20px;
     text-align: center;
     font-weight: bold;
     background-color: darkgray;
+    margin:24px;
+    border:solid;
 }
 .link-container a{
     color:aliceblue;
@@ -22,29 +28,38 @@ h1{
 .recipe-img img{
     width:350px;
     height:auto;
+    border:solid 2px black;
 }
 .description{
     text-align: center;
     background-color: white;
     font-size: 20px;
+    border:solid 2px black;
 }
 .ingredients{
     background-color: aliceblue;
+    border:solid;
 }
 ol{
     background-color: aliceblue;
     font-family:'Times New Roman', Times, serif;
+    margin:8px;
+    border:solid;
 }
 footer p{
     text-align: center;
-    background-color: whitesmoke;
+    background-color: whitesmoke;    padding:8px;
+    margin:48px;
 }
 h2{
     background-color: gray;
+    border:solid;
 }
 h3{
     background-color: gray;
+    border:solid;
 }
 h4{
     background-color: gray;
+    text-align: center;
 }
